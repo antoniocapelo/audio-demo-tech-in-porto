@@ -1,0 +1,15 @@
+.point {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #444; 
+    transition: all 0.15s ease-out;
+    border-radius: 50%;
+}
+
+.filter {
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+    cursor: default;
+}
